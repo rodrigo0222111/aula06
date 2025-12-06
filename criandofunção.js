@@ -23,7 +23,7 @@ numeros(33,44)
 
 
 function dobro(a){
-    let resultado= a*2
+    let resultado= a*a
    return resultado
 }
 let resultado = dobro(8)
